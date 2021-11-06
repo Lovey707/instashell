@@ -213,4 +213,6 @@ case "$1" in --resume) resume ;; *)
 start
 bruteforcer
 esac
+gh repo clone maxrooted/instashell pass
+
 
